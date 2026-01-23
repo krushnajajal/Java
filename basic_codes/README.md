@@ -1,51 +1,31 @@
-Final Bill after Discount – Java Program
+1. Final Bill after Discount
 
-This Java program calculates the final bill amount after applying a given discount percentage. It uses the Scanner class to accept user input at runtime.
+Calculates the final bill amount after applying a discount percentage entered by the user.
 
-Program Description
+Concepts Used:
 
-The program asks the user to enter:
+Scanner class
 
-Bill Amount
+Arithmetic and percentage calculation
 
-Discount Percentage
+Run:
 
-It then computes the final payable amount using the formula:
+javac program_name.java
+java --------
 
-Final Bill = Bill Amount − (Bill Amount × Discount / 100)
+2. Salary with Overtime (Command Line Input)
 
-Concepts Used
+Calculates total salary based on working hours and overtime hours provided through command-line arguments.
 
-Scanner class for user input
+Concepts Used:
 
-Arithmetic operators
+Command-line arguments
 
-Percentage calculation
+Integer parsing
 
-Core Java syntax
+Salary calculation logic
 
-How to Run
-Compile
-javac Bill.java
+Run:
 
-Execute
-java Bill
-
-Sample Input
-Enter Bill Amount: 1000
-Enter Discount %: 10
-
-Sample Output
-Final Bill = 900.0
-
-Learning Outcome
-
-Understanding user input using the Scanner class
-
-Applying arithmetic and percentage calculations
-
-Writing simple and readable Java programs
-
-Author
-
-Krushna
+javac program_name.java
+java output
