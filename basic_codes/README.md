@@ -1,31 +1,19 @@
 1. Final Bill after Discount
 
-Calculates the final bill amount after applying a discount percentage entered by the user.
+      Calculates the final bill amount after applying a discount percentage entered by the user.
 
-Concepts Used:
+      Concepts Used: Scanner class
+        Arithmetic and percentage calculation
+   
+                Run:    javac program_name.java
+               output:    java --------
 
-Scanner class
 
-Arithmetic and percentage calculation
+3. Salary with Overtime (Command Line Input)
+      Calculates total salary based on working hours and overtime hours provided through command-line arguments.
+       Concepts Used:    Command-line arguments
+                          Integer parsing
+                          Salary calculation logic
 
-Run:
-
-javac program_name.java
-java --------
-
-2. Salary with Overtime (Command Line Input)
-
-Calculates total salary based on working hours and overtime hours provided through command-line arguments.
-
-Concepts Used:
-
-Command-line arguments
-
-Integer parsing
-
-Salary calculation logic
-
-Run:
-
-javac program_name.java
-java output
+          Run:  javac program_name.java
+                 java output
